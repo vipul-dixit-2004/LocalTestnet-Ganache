@@ -1,0 +1,14 @@
+{
+  "name": "localtestnet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"ganache-cli -p $PORT"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.12.2"
+  }
+}
