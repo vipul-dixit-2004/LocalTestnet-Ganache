@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"ganache --port 8545"
+    "start":"ganache --port 8545 --host 0.0.0.0"
   },
   "author": "",
   "license": "ISC",
